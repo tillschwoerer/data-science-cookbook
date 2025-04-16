@@ -2,7 +2,7 @@
 
 An aromatic, flavorful, and spicy rice dish layered with marinated chicken, saffron-kissed basmati rice, and whole spices – Chicken Biriyani is more than just food, it's an emotion for many!
 
-Optionally: include an image here
+![chicken biryani](img/chickenbiryani.jpg)
 
 ## Stats
 - Cooking Time: 1.5 hours
