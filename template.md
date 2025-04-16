@@ -1,4 +1,4 @@
-# Food Name
+# Maultaschen
 
 Some delicious Maultaschen
 ![alt text](maultaschen.png)
