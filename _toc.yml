@@ -13,3 +13,8 @@ parts:
     - file: nasi-goreng
     - file: pasta
     - file: tiramisou
+
+  - caption: Kitchen Equipment
+    chapters:
+    - file: readme
+    - file: jupyter-book
