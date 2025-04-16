@@ -1,3 +1,5 @@
+# Jupyter Book
+
 All recipes provided as markdown files are compiled into a Jupyter Book hosted under https://tillschwoerer.github.io/data-science-cookbook
 
 Technically this requires the following steps:
