@@ -4,14 +4,20 @@ I am originally from the South of Germany, more precisely the region called Schw
 
 ![](img/kaesespaetzle.webp)
 
+Though it is possible to just buy **Spätzle** in any supermarket (either fresh or dried), I would likely recommend - for the full experience - to make your own Spätzle, and then adding cheese etc. on top of it. Making your own Spätzle certainly raises the overall cooking time.
+
 ## Stats
-- Cooking Time: ...
-- Servings: ....
+- Cooking Time: 30 minutes
+- Servings: 4
 
 ## Ingredients
-- Ingredient 1
-- Ingredient 2
-- ..
+- 500 g of flour 
+- 1 tablespoon of   oil
+- 250 ml of whater	Wasser
+- 4 teespoons of salt
+- 6	eggs
+- 3 medium-sized onions
+- 300 g shredded Emmentaler cheese
 
 ## Instructions
 1. Step 1
