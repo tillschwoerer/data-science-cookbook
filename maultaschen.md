@@ -17,5 +17,3 @@ Some delicious Maultaschen
 3. cook them for 10 minutes
 4. put the Maultaschen on a plate and put some butter on them
 5. enjoy the meal
-
-# Comments
