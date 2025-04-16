@@ -1,12 +1,12 @@
-Cheesecake
+#Cheesecake
 
 A dessert so rich it makes your bank account feel poor by comparison. This velvety, creamy show-off is what happens when cream cheese reaches its final, most evolved form. Serve it to guests and pretend it wasn’t mostly just sitting in the fridge for hours doing nothing.
 
-Stats
+##Stats
 	•	Cooking Time: 1 hour (plus 4 hours of existential fridge time)
 	•	Servings: 8-10 people, or one person with unresolved emotions
 
-Ingredients
+##Ingredients
 	•	1 ½ cups graham cracker crumbs (or whatever crumbles your crust)
 	•	¼ cup granulated sugar (for the illusion of sweetness)
 	•	½ cup unsalted butter, melted (because of course it is)
@@ -17,7 +17,7 @@ Ingredients
 	•	⅔ cup sour cream (surprisingly not a mistake)
 	•	⅔ cup heavy cream (extra cream for the cream god)
 
-Instructions
+##Instructions
 	1.	Preheat your oven to 325°F (163°C). This is the only hot thing happening in your kitchen.
 	2.	Make the crust: In a bowl, mix graham cracker crumbs, ¼ cup sugar, and melted butter. Press it into the bottom of a 9-inch springform pan like you’re packing emotional baggage. Bake for 10 minutes. Let it cool.
 	3.	Mix the filling: Beat cream cheese until smooth, then add 1 cup sugar and vanilla. Continue beating like you’re trying to impress a stand mixer. Add eggs one at a time, mixing gently and wondering where you went wrong.
@@ -28,7 +28,7 @@ Instructions
 	8.	Chill the cheesecake for at least 4 hours, or overnight if you want to pretend you have patience.
 	9.	Optional: top with fruit, whipped cream, or your tears of joy.
 
-Comments
+##Comments
 	•	“This cheesecake made me feel something. I think it was joy. Or cholesterol. Hard to tell.”
 	•	“10/10. Would ghost my gym trainer again.”
 	•	“Took this to a family gathering and became the favorite child. Suck it, Brian.”
