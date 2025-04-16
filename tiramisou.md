@@ -1,8 +1,8 @@
 # Food Name
 
-Lecker lecker Vegan Tiramisù with Speculoos
+Yummy yummy Vegan Tiramisù with Speculoos
 
-Optionally: include an image here
+![alt text](image.png)
 
 ## Stats
 - Cooking Time: 30 minutes (plus chilling time)
