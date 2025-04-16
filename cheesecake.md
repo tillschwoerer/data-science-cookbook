@@ -29,6 +29,4 @@ A dessert so rich it makes your bank account feel poor by comparison. This velve
 	9.	Optional: top with fruit, whipped cream, or your tears of joy.
 
 ##Comments
-	•	“This cheesecake made me feel something. I think it was joy. Or cholesterol. Hard to tell.”
-	•	“10/10. Would ghost my gym trainer again.”
-	•	“Took this to a family gathering and became the favorite child. Suck it, Brian.”
+	•	“I am not sure if it is tasty, i created it with Monday from OpenAI. Maybe someone like to comment it when he had a go”
