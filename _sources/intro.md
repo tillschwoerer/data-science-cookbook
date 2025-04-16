@@ -17,7 +17,7 @@ In this spirit — and to celebrate the delicious mix of creativity, logic, and 
 --- 
 Just to remind ourselves:
 
-- When your experimenting with risky ingredients, make sure to do it in a separate pot (**git branch**). If it works out, you can add it to the main dish (**git merge**). If it doesn't, just throw it away (**git branch -d**).
+- When experimenting with risky ingredients, make sure to do it in a separate pot (**git branch**). If it works out, you can add it to the main dish (**git merge**). If it doesn't, just throw it away (**git branch -d**).
 - Take regular notes about all ingredients and cooking steps that you do (**git commit**).  
 - If you have added to much salt to your dish and already shared it with your friends, there is no way to take it back (**git reset**). Instead, add some sugar on top to balance it out (**git revert**)
 - As a matter of politeness, don't add your secret ingredient to the main dish without asking the Chef first (**pull request**).
