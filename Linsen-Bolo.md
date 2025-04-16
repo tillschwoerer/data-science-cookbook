@@ -2,7 +2,7 @@
 
 Diese Linsen Bolo haut dich aus den Socken!
 
-![(https://assets.zuckerjagdwurst.com/1jfesrx3baaz8v4x4znb81kwatqm/2220/1402/55/true/center/R941+–+Vegane+Linsen-Bolognese-09.webp?animated=false)]
+![alt text](https://assets.zuckerjagdwurst.com/1jfesrx3baaz8v4x4znb81kwatqm/2220/1402/55/true/center/R941+–+Vegane+Linsen-Bolognese-09.webp?animated=false)
 
 ## Stats
 - Cooking Time: 45 min
