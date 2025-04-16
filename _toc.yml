@@ -1,13 +1,20 @@
 # _toc.yml
 format: jb-book
-root: readme
-chapters:
-  - file: bananabread
-  - file: Jollof_rice
-  - file: Linsen-Bolo
-  - file: maultaschen
-  - file: mercimek
-  - file: nasi-goreng
-  - file: "Olive Oil Orange Cake"
-  - file: pasta
-  - file: tiramisou
+root: intro
+parts:
+  - caption: Recipes
+    chapters:
+    - file: maultaschen
+    - file: bananabread
+    - file: "Olive Oil Orange Cake"
+    - file: Jollof_rice
+    - file: Linsen-Bolo
+    - file: mercimek
+    - file: nasi-goreng
+    - file: pasta
+    - file: tiramisou
+
+  - caption: Kitchen Equipment
+    chapters:
+    - file: readme
+    - file: jupyter-book
