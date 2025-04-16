@@ -1,4 +1,4 @@
-# Food Name
+# Biryani
 Tasty Chicken swimming in Rice
 ![Biryani](https://www.cubesnjuliennes.com/wp-content/uploads/2020/01/Chicken-Biryani-1025x1536.jpg)
 
