@@ -30,7 +30,7 @@ parts:
 
 4. Write the content of the book in markdown files. Each recipe is a separate markdown file, and they are organized into folders according to the structure defined in `_toc.yml`.
 
-5. Build the book . This command generates the HTML files for the book in a folder named `_build/html`.
+5. Build the book . This command generates the HTML files for the book in a folder named `_build/html`. 
 
 ```bash
 jupyter-book build .
@@ -43,12 +43,10 @@ start _build/html/index.html    # Windows
 open _build/html/index.html     # MacOS
 ```
 
-7. Finally, we host the book on GitHub Pages or any other static site hosting service. For GitHub Pages, you can push the `_build/html` folder to the `gh-pages` branch of your repository. This can be done using the following commands:
-
+7. Finally, we push the `_build/html` folder to the `gh-pages` branch of our Github repository. 
 ```bash
-git branch gh-pages
-git switch gh-pages
-git add _build/html     # once the book is built
-git commit -m "Update Jupyter Book"
-git push origin gh-pages
+pip install ghp                     # Install the package ghp once
+ghp-import -n -p -f _build/html     # Execute for push to gh-pages
 ```
+
+Note that in the settings of our Github repo, we have defined the location of the HTML files (Settings -> Pages -> Deploy from a branch -> gh-pages). Other alternatives are possible

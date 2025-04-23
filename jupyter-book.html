@@ -191,6 +191,7 @@
 
 <li class="toctree-l1"><a class="reference internal" href="tiramisou.html">Food Name</a></li>
 
+<li class="toctree-l1"><a class="reference internal" href="cheesecake.html">Cheesecake</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Kitchen Equipment</span></p>
 <ul class="current nav bd-sidenav">
@@ -393,15 +394,13 @@ open<span class="w"> </span>_build/html/index.html<span class="w">     </span><s
 </pre></div>
 </div>
 <ol class="arabic simple" start="7">
-<li><p>Finally, we host the book on GitHub Pages or any other static site hosting service. For GitHub Pages, you can push the <code class="docutils literal notranslate"><span class="pre">_build/html</span></code> folder to the <code class="docutils literal notranslate"><span class="pre">gh-pages</span></code> branch of your repository. This can be done using the following commands:</p></li>
+<li><p>Finally, we push the <code class="docutils literal notranslate"><span class="pre">_build/html</span></code> folder to the <code class="docutils literal notranslate"><span class="pre">gh-pages</span></code> branch of our Github repository.</p></li>
 </ol>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>git<span class="w"> </span>branch<span class="w"> </span>gh-pages
-git<span class="w"> </span>switch<span class="w"> </span>gh-pages
-git<span class="w"> </span>add<span class="w"> </span>_build/html<span class="w">     </span><span class="c1"># once the book is built</span>
-git<span class="w"> </span>commit<span class="w"> </span>-m<span class="w"> </span><span class="s2">&quot;Update Jupyter Book&quot;</span>
-git<span class="w"> </span>push<span class="w"> </span>origin<span class="w"> </span>gh-pages
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pip<span class="w"> </span>install<span class="w"> </span>ghp<span class="w">                     </span><span class="c1"># Install the package ghp once</span>
+ghp-import<span class="w"> </span>-n<span class="w"> </span>-p<span class="w"> </span>-f<span class="w"> </span>_build/html<span class="w">     </span><span class="c1"># Execute for push to gh-pages</span>
 </pre></div>
 </div>
+<p>Note that in the settings of our Github repo, we have defined the location of the HTML files (Settings -&gt; Pages -&gt; Deploy from a branch -&gt; gh-pages). Other alternatives are possible</p>
 </section>
 
     <script type="text/x-thebe-config">
