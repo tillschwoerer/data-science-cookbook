@@ -11,7 +11,7 @@ This repository is a collaborative project created for the purpose of learning a
 
 ### Making Contributions
 
-- **Create a New Branch**: Create a branch for your specific contribution. Name it after the git term you are explaining, e.g., `git branch add`.
+- **Create a New Branch**: Create a branch for your specific contribution. Name it, e.g., according to the recipe that you want to contribute.
 - **Switch to New Branch**: Switch to your branch, e.g. `git switch add`.
 - **Copy the Template**: You'll find a `template.md` in the directory. Copy this file and rename it according to the recipe that you are adding. For example, if you are adding a recipe for "Pasta", name it `pasta.md`.
 - **Edit the File**: Follow the format specified in `template.md` to fill out your ingredients and instructions. You can also note additional information, such as cooking time, or personal hints and tricks.
